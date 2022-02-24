@@ -3,9 +3,15 @@
 A new Flutter project.
 
 ##highlights
+
+
 1)here i created the razorpay gateway 
+
+
 2)dependencies use
+
   ->  razorpay_flutter: ^1.2.3
+  
   ->  toast: ^0.1.5
 
 ## Getting Started
